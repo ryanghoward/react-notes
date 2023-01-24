@@ -11,11 +11,12 @@
 }
 
 :root {
-  --color-bg-dark: #3a3a3a;
-  --color-bg-black: #111111;
-  --color-white: #fefefe;
-  --color-primary: #7634d8;
-  --color-danger: rgb(249, 84, 84);
+  --color-bg-dark: skyblue;
+  --color-bg-black: black;
+  --color-white: white;
+  /* --color-primary: #2c006e; */
+  --color-primary: skyblue;
+  --color-danger: rgb(255, 0, 0);
 }
 
 body {
